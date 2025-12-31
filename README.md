@@ -1,4 +1,4 @@
-# Airline Loyalty & Revenue Analytics (SQL Project)
+# Airline Flight Performance Analytics (SQL Project)
 
 ## 📌 Overview
 This project is a SQL-only analytics case study built using a Kaggle airline flights dataset. 
